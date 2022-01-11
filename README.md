@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TLVzarathustra 
-- 👀 I’m interested in women and books 
-- 🌱 I’m currently learning the meaning of life with breaks of learning java, algorithms, html, etc. 
+- 👀 I’m interested in books, playing piano 
+- 🌱 I’m currently learning the meaning of life with breaks of learning java, algorithms, web, etc. 
 - 📫 How to reach me: drive in TLV next to the opera building
 
 <!---
